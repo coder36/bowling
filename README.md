@@ -10,8 +10,8 @@ The aim of this Kata is to calculate bowling scores - it's a lot more complicate
 
 I had two aims:
 ---------------
-1) Uses Test driven development
-2) See what the language gives me in terms of "not having to write code" - It does pretty well on that front.
+* 1) Uses Test driven development
+* 2) See what the language gives me in terms of "not having to write code" - It does pretty well on that front.
   
 
 Here is an outline of my approach:
