@@ -39,14 +39,16 @@ First of all I need to understand the problem - my reasoning if I can understand
 
 This give me a clue to how work out the score of any game:
 1) Calculate frame score
+
 2) Calculate spare score
+
 3) Calcuate strike score
 
 Add them together and you have the score.  For the code itself, the key is to keep on refactoring, re-organise, combine and remove inefficienes. 
 
 
-Running the thing
------------------
+Running the gherkins
+--------------------
 
 To run the gherkins clone the repo, and run
     gem install rspec
