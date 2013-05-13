@@ -37,12 +37,10 @@ First of all I need to understand the problem - my reasoning if I can understand
     spare               4      4      4      4      4      4      4      4      4   4             = 40
                                                                                                   = 140
 
-This give me a clue to how work out the score of any game:
-1) Calculate frame score
-
-2) Calculate spare score
-
-3) Calcuate strike score
+This give me a clue to how work out the score of any game:  
+1) Calculate frame score  
+2) Calculate spare score  
+3) Calcuate strike score  
 
 Add them together and you have the score.  For the code itself, the key is to keep on refactoring, re-organise, combine and remove inefficienes. 
 
