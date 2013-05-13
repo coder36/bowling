@@ -45,12 +45,14 @@ This give me a clue to how work out the score of any game:
 Add them together and you have the score.  For the code itself, the key is to keep on refactoring, re-organise, combine and remove inefficienes. 
 
 
-Running the thing
+Running the tests
 -----------------
 
 To run the gherkins clone the repo, and run
     gem install rspec
+
     gem install cucumber
+
     cucumber
 
     Feature: Calculate my bowling score
