@@ -48,10 +48,10 @@ Add them together and you have the score.  For the code itself, the key is to ke
 Running the gherkins
 --------------------
 
-To run the gherkins clone the repo, and run
-    gem install rspec
-    gem install cucumber
-    cucumber
+To run the gherkins clone the repo, and run  
+    gem install rspec  
+    gem install cucumber  
+    cucumber  
 
     Feature: Calculate my bowling score
       In order to win big at ten pin bowling
