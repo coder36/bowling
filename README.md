@@ -1,7 +1,7 @@
 What's my score?
 ================
 
-This my first real firay into ruby, so what better way to explore the language than via a Kata.  
+This my first real foray into ruby, so what better way to explore the language than via a Kata.  
 
 *View the [problem](http://code.joejag.com/coding-dojo-bowling-scores/).*
 
@@ -17,7 +17,7 @@ I had two aims:
 Here is an outline of my approach:
 ----------------------------------
 
-First of all I need to understand the problem - my reasoning if I can understand how the scoring works then I can code my mental process.  The trickiest to understand is the perfect game, so I started with that.  
+First of all I need to understand the problem - my reasoning if I can understand how the scoring works then I can code my mental process.  The trickiest part to understand is the perfect game, so I started with that.  
 
               [10,0], [10,0], [10,0], [10,0], [10,0], [10,0], [10,0], [10,0], [10,0] [10,10,10]
     frame     10       10      10      10      10      10      10      10      10     30          = 120  
